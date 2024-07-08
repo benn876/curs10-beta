@@ -1,0 +1,4 @@
+Mihai|22
+George|44
+Ana|55
+Ionela|31
